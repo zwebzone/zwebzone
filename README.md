@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zwebzone, currently BEng at the Department of Computer Science and Engineering of SUSTech.
-- 👀 I’m interested in urban computing, machine learning.
+- 👀 I’m interested in machine learning and urban computing.
 - 🌱 I’m currently learning continual learning and transfer learning.
 
 <!---
